@@ -100,7 +100,7 @@ body {
 .box-1 {
     background-color: #1A1B1A; 
     display: flex;
-    background-image: url('Landing\ Page.png');
+    background-image: url('photos/Landing\ Page.png');
     background-size: cover; 
     background-position: center;
 }
@@ -108,7 +108,7 @@ body {
 .box-2 {
     background-color: #1A1B1A; 
     display: flex;
-    background-image: url('2.png');
+    background-image: url('photos/2.png');
     background-size: cover; 
     background-position: center;
 }
@@ -116,7 +116,7 @@ body {
 .box-3 {
     background-color: #1A1B1A; 
     display: flex;
-    background-image: url('3.png');
+    background-image: url('photos/3.png');
     background-size: cover; /* background image covers entire space */
     background-position: center;
 }
@@ -124,7 +124,7 @@ body {
 .box-4 {
     background-color: #1A1B1A; 
     display: flex;
-    background-image: url('4.png');
+    background-image: url('photos/4.png');
     background-size: cover; 
     background-position: center;
 }
