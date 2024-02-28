@@ -1,11 +1,11 @@
 @font-face { /* new font downloaded from web */
     font-family: 'BaseFont';
-    src: url('Montserrat-Regular.ttf') format('opentype'); 
+    src: url('fonts/Montserrat-Regular.ttf') format('opentype'); 
 }
 
 @font-face {
     font-family: 'HighlightFont';
-    src: url('League.ttf') format('opentype'); 
+    src: url('fonts/League.ttf') format('opentype'); 
 }
 
 html {
